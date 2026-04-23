@@ -1,11 +1,17 @@
 # Hi, I'm Andriy
 
-Backend engineer with 15 years experience building distributed systems at scale.
+Backend engineer, 15 years, Go and Python. I build platforms from the ground up and scale them.
 
 ## Recent work
-- Built backend systems serving 7M+ MAU video delivery platform
-- Go, Python, Kubernetes, distributed systems
+
+Scaled the [Odysee](https://github.com/OdyseeTeam/) video platform to 7M+ monthly active users over 7 years, as one of two backend engineers for the last three.
+
+## Currently
+
+- Exploring LLM application infrastructure
+- Building an iOS weightlifting tracker app
 
 ## Find me
+
 - [LinkedIn](https://www.linkedin.com/in/andriybiletsky/)
-- Based in Bangkok, able to work US/EU hours
+- Open to remote roles (US / EU / global)
